@@ -1,1 +1,3 @@
-# SparkDeFi White Paper
+# Official SparkDeFi White Paper
+
+SparkDeFi White Paper
