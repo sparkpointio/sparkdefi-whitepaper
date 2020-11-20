@@ -49,13 +49,17 @@ DeFi or Decentralized Finance is the furtherance of banking. Decentralized finan
 
 Another definition of Decentralized Finance is that it is a type of futuristic economical management system touted to levy further control to the people, without the need for financial intermediaries. Likewise, it seeks to transform the current financial management model’s intensive reliance on centralized fiscal authorities. Moreover, DeFi advocates for the creation of transparent and accessible banking tools for the inclusive and encompassing usage of those seeking to avail of financial services.
 
-Considered by financial experts as innovative, DeFi likewise seeks to further consolidate the financial products and services offered by centralized banking authorities for the people seamlessly. Dubbed as the future of the global economy, here are some of the revolutionary concepts of our SparkDeFi platform that would, for sure, capitulate the world of finance management into new heights.
+Considered by financial experts as innovative, DeFi likewise seeks to further consolidate the financial products and services offered by centralized banking authorities for the people seamlessly.
+
+One of the online platforms that recommend Decentralized Finance is SparkDeFi. The SparkDeFi operates with the notion that not every investor is skilled in yield farming. Decentralized Finance and yield farming go hand in hand because the latter is the appropriate tool to make the DeFi trustless and high-yielding. The SparkDeFi utilizes computer programs for yield farming, otherwise known as “liquidity mining”, which make it easy for the beginners in cryptocurrency and more convenient for the experienced investors. By locking up cryptocurrencies, the client can reap rewards.
+
+Dubbed as the future of the global economy, here are some of the revolutionary concepts of our SparkDeFi platform that would, for sure, capitulate the world of finance management into new heights.
 
 ## SparkDeFi
 
 SparkDeFi is a governance token-based DeFi platform that empowers individuals to unlock the true value of their cryptocurrency assets. The transactions that it offers are Decentralized Exchange (DEX), Multi-Staking, P2P Lending and Borrowing, and DeFi Assets Protocols Management in a seamless, transparent, secure, inclusive, and interoperable approach.
 
-The SFUEL token is SparkDeFi’s governance token with a total supply of 150,000,000.00 (one hundred fifty million) tokens. This SFUEL will be launched as a BEP20 token on the Binance Smart Chain in Q4 of 2020. For the sake of proper structuring, the governance of SparkDeFi will be delegated to SFUEL holders. The Decentralized Autonomous Organization (DAO) members are responsible for the direction of the protocol via systematic voting.
+The SFUEL token is SparkDeFi’s governance token with a total supply of 150,000,000.00 tokens. This SFUEL will be launched as a BEP20 token on the Binance Smart Chain in Q4 of 2020. For the sake of proper structuring, the governance of SparkDeFi will be delegated to SFUEL holders. The Decentralized Autonomous Organization (DAO) members are responsible for the direction of the protocol via systematic voting.
 
 ### 1. SparkSwap Decentralized Exchange (DEX)
 
