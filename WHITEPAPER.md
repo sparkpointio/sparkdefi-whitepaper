@@ -209,9 +209,9 @@ Revenue from transactions fees.
 
 ---
 
-<sup>1</sup> https://academy.binance.com/en/articles/decentralized-autonomous-organizations-daos-explained
-<sup>2</sup> https://bravenewcoin.com/insights/2020-the-year-of-defi
-<sup>3</sup> https://defipulse.com/
-<sup>4</sup> https://academy.ivanontech.com/blog/non-fungible-tokens-explaining-nfts-erc-721-and-erc-1155
-<sup>5</sup> https://cointelegraph.com/news/nfts-take-on-defi-nonfungible-tokens-push-to-be-the-next-crypto-craze
-<sup>6</sup>  https://cointelegraph.com/explained/dex-explained
+<sup>1</sup> https://academy.binance.com/en/articles/decentralized-autonomous-organizations-daos-explained  
+<sup>2</sup> https://bravenewcoin.com/insights/2020-the-year-of-defi  
+<sup>3</sup> https://defipulse.com/  
+<sup>4</sup> https://academy.ivanontech.com/blog/non-fungible-tokens-explaining-nfts-erc-721-and-erc-1155  
+<sup>5</sup> https://cointelegraph.com/news/nfts-take-on-defi-nonfungible-tokens-push-to-be-the-next-crypto-craze  
+<sup>6</sup>  https://cointelegraph.com/explained/dex-explained  
