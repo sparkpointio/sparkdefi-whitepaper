@@ -77,21 +77,17 @@ Necessarily, the changes brought by cryptocurrency are adapted and practiced in 
 
 [Yield farming](https://academy.binance.com/en/articles/what-is-yield-farming-in-decentralized-finance-defi) is a recommended practical and functional use case in DeFi. Knowledge can also be gained from participating int his activity. For instance, in liquidity staking, users can learn about different decentralized finance protocols and supported cryptocurrencies.
 
-Liquidity is essential for a market because large traders cannot enter the market without slippage. Even if you have more tokens to meet demand, it will only be not very helpful without a liquidity market. Due to the protocol's implementation, it is necessary to balance the supply and demand of the token.
-
 #### B. Pool-Based Staking
 
-In the platform of SparkDeFi, the client is encouraged to participate in the SRK-ETH and SFUEL-ETH liquidity staking pools and earn SRK or SFUEL, a SparkDefi governance token. By participating, the client can stake SRK tokens or SFUEL in the regular pool-based staking and collect SRK or SFUEL rewards regularly.
+In SparkDeFi, users are encouraged to participate in the SRK and SFUEL staking pools and earn SRK or SFUEL rewards. By participating, users can stake SRK tokens or SFUEL in the regular pool-based staking and collect SRK or SFUEL rewards regularly.
 
-The staking pool includes collaborative work by cryptocurrency holders whose assets were combined for them to increase their chances of being rewarded as well as to increase their expected ROI (Return of Investment). That is why the maximization of assets through a consistent group staking is mindedly in need because the more you stake coins on the pool, the more chances that the staking pool will be picked and let your cast get verified.
+Staking pools are safe. All you need to do is a stake. It is considered profitable as mining and trading cryptocurrency. This indicates that the profits you will earn will be paralleled to your money and how long you have been engaging in the staking pool. The more you stake, the more massive profits you can look for. It will always come with perseverance and consistency. Do not be solely minded and participate in the staking pool to earn enough staking coins on your wallet. It is better to have a companion in progress.
 
-Staking pools are safe. All you need to do is a stake. It was considered profitable as mining and trading cryptocurrency. Wherein the profits you will earn will be paralleled to your investment and how long you have been engaging in Staking Pool. The more you stake, the more massive profits you can look for. It will always come with perseverance and consistency. Participate in Staking Pool to earn enough Staking Coins on your wallet. Do not be solely minded. It will be better to have a companion in progress.
+The pool operator manages the staking pool by having chosen a specific pool. This specific pool might have stakeholders who desire to participate in the pool and invest their coins in a particular blockchain address or money. However, there can be an appearance of a third network. This makes it possible for some pools to require their users to participate in their staking process while regulating their wallet-coin consistently.
 
-The staking pool is managed by a Pool operator, with a chosen specific pool that might have stakeholders who desire to participate in the pool and invest their coins in a particular blockchain address or money. However, there can be an appearance of a third party. Wherein some pools require their users to participate in their staking process while regulating their wallet-coin consistently.
+Working or staking your coins alone would not help your stake grow. If a block requests to get your stake, the blockchain will find a suitable staking wallet to do it. Therefore, your staking wallet has a small number of chances to be chosen and get validated by the block. Hence, a single staking pool can only receive not more than 1.0% of the total staking rewards. After splitting the rewards among participants in the pool, some charges will be counted and deducted after the final payout.
 
-Working or staking your coins alone would not help your stake grow. If a block requests to get mine, the blockchain will find a suitable staking wallet to do it. Therefore, your staking wallet has a small number of chances to be chosen and get validated by the block. Hence, Single Staking Pool can only receive not more than 1.0% of the total Staking rewards. After splitting the rewards among participants in the pool, there are charge fees that will be counted and deducted after the final payout.
-
-On the other hand, if you genuinely understand the staking pool and consistently take a part of it by contributing coins, there is a high chance for your staking pool to choose and get block verification. It gets a higher value than their wallets/pool. This means you are more exposed to earning and increasing your profit.
+If you genuinely understand the staking pool and consistently take a part in it by contributing coins, there is a high chance for your staking pool to choose and get block verification. It gets a higher value than their wallets/pool. This means that you are more primed for obtaining more rewards.
 
 ### 3. P2P Lending and Borrowing
 
