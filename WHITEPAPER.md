@@ -41,25 +41,27 @@ SparkPoint Decentralized Finance platform.
 
 ## Introduction
 
-Coinciding with the change in our world is also the adjustments in our daily needs. One of these is the significant system change in our financial world. Banks have been the money guardians of the people. However, the present situation of 2020 has shown us that daily transactions can be simplified. There are now various technologies or instruments that have been developed for people to use in meeting their needs. The functions of banks as middlemen can be enhanced. How? DeFi.
+Coinciding with the change in our world is also the adjustments in our daily needs. One of these is the significant system change in our financial world. Banks have been the money guardians of the people. However, the present situation of 2020 has shown us that daily transactions can be simplified. There are now various technologies or instruments that have been developed for people to use in meeting their needs. The functions of banks as middlemen can be enhanced, how? With DeFi.
 
 ### Decentralized Finance
 
-Decentralized Finance (DeFi) is the future of banking. DeFi is a type of money market that can provide you with income through interest, or you can borrow assets against collateral. These are products or services that aim to mimic the products and services that already exist in the traditional financial world. So far, DeFi's total locked value (TVL) has reached [12B USD in assets](https://blockchain.news/news/defi-12-billion-total-value-locked-ethereum-transacts-2x-bitcoin-daily). These assets are called cryptocurrency assets because it is in the form of digital tokens.
+Decentralized Finance (DeFi) is the future of banking. DeFi is a type of money market that can provide you with income through interest, or you can borrow assets against collateral. These are products or services that aim to mimic the products and services that already exist in the traditional financial world. So far, DeFi's Total Value Locked (TVL) has reached [12B USD in assets](https://blockchain.news/news/defi-12-billion-total-value-locked-ethereum-transacts-2x-bitcoin-daily). These assets are called cryptocurrency assets because it is in the form of digital tokens.
 
-DeFi is a type of futuristic economical management system touted to levy further control to the people, without the need for financial intermediaries. Likewise, it seeks to transform the current financial management model’s intensive reliance on centralized fiscal authorities. Moreover, DeFi advocates for the creation of transparent and accessible banking tools for the inclusive and encompassing the usage of those seeking to avail of financial services.
+DeFi is a type of futuristic economical management system that supports and delegates full financial control to its users, without the need for financial intermediaries. It seeks to transform the current financial management model’s intensive reliance on centralized fiscal authorities. Moreover, DeFi advocates for the creation of transparent and accessible banking tools for the inclusive and encompassing usage of those seeking to avail of financial services.
 
-Considered by financial experts as innovative, DeFi likewise seeks to further consolidate the financial products and services offered by centralized banking authorities for the people seamlessly.
+Considered by financial experts as innovative, DeFi seeks to further consolidate the financial products and services offered by centralized banking authorities for the people seamlessly.
 
-One of the online platforms that recommend Decentralized Finance is SparkDeFi. The SparkDeFi operates with the notion that not every investor is skilled in yield farming. Decentralized Finance and yield farming go hand in hand because the latter is the appropriate tool to make the DeFi trustless and high-yielding. The SparkDeFi utilizes computer programs for yield farming, otherwise known as “liquidity mining”, which make it easy for the beginners in cryptocurrency and more convenient for the experienced investors. By locking up cryptocurrencies, the client can reap rewards.
+One of the online platforms that offers Decentralized Finance solutions is SparkDeFi. SparkDeFi operates with the notion that not every person is skilled in yield farming. Decentralized Finance and yield farming go hand in hand because the latter is the most familiar approach that makes DeFi trustless and high-yielding.
 
-Dubbed as the future of the global economy, here are some of the revolutionary concepts of our SparkDeFi platform that would, for sure, capitulate the world of finance management into new heights.
+SparkDeFi utilizes computer programs for yield farming, otherwise known as “liquidity mining.” These programs make it easy for beginners in cryptocurrency and more convenient for the experienced ones. You, the client, can reap rewards by locking up cryptocurrency.
 
 ## SparkDeFi
 
 SparkDeFi is a governance token-based DeFi platform that empowers individuals to unlock the true value of their cryptocurrency assets. It offers a Decentralized Exchange (DEX), Multi-Staking, P2P Lending and Borrowing, and DeFi Assets Protocols Management in a seamless, transparent, secure, inclusive, and interoperable approach.
 
 The SFUEL is SparkDeFi’s governance token with a total supply of 150,000,000.00 (one hundred fifty million) tokens. The SFUEL will be launched as a BEP20 token on the Binance Smart Chain in Q4 of 2020. For the sake of proper structuring, the governance of SparkDeFi will be delegated to SFUEL holders. The Decentralized Autonomous Organization (DAO) members are responsible for the direction of the protocol via systematic voting.
+
+With DeFi having the potential to disrupt the future of the global economy, here are some of the revolutionary concepts of our SparkDeFi platform that could catapult the world of finance management to new heights.
 
 ### 1. SparkSwap Decentralized Exchange (DEX)
 
