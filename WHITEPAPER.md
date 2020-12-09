@@ -41,7 +41,7 @@ SparkPoint Decentralized Finance platform.
 
 ## Introduction
 
-Coinciding with the change in our world is also the adjustments in our daily needs. One of these is the significant system change in our financial world. Banks have been the money guardians of the people. However, the present situation of 2020 has shown us that daily transactions can be simplified. There are now various technologies or instruments that have been developed for people to use in meeting their needs. The functions of banks as middlemen can be enhanced, how? With DeFi.
+There is a significant paradigm shift that is happening now in our financial world. Banks have traditionally always been the money guardians of the people. However, the events that transpired during 2020 has shown us that various transactions in people's lives can be simplified and moved online. There are new innovative technologies and tools that were developed recently that can meet the financial needs of the people. One of these new technologies is DeFi, which has the potential to disrupt the function of banks as middlemen.
 
 ### Decentralized Finance
 
