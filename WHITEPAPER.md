@@ -28,11 +28,13 @@ SparkPoint Decentralized Finance platform.
   * [Interoperability](#interoperability)
   * [Innovative P2P Lending](#innovative-p2p-lending)
   * [Microlending](#microlending)
-* SparkDeFi Ecosystem Security and Architecture
+* [SparkDeFi Ecosystem Security and Architecture](#sparkdefi-ecosystem-security-and-architecture)
   * Regulatory Risk or Compliance
   * Technical Issues with Smart Contracts
   * Network Security
-  * SFUEL Token Economics
+  * [SFUEL Token Economics](#sfuel-token-economics)
+    * [Utilities and Use Cases](#utilities-and-use-cases)
+    * [Vesting Schedule](#vesting-schedule)
   * Governance Structure
 * [Moving Forward](#moving-forward)
   * [Roadmap](#roadmap)
@@ -213,6 +215,34 @@ SparkDeFi revolutionizes P2P Lending by allowing various cryptocurrency assets l
 ### Microlending
 
 Lower minimum lending amount, lower barrier to entry, more inclusive approach to lending.
+
+## SparkDeFi Ecosystem Security and Architecture
+
+### SFUEL Token Economics
+
+#### Utilities and Use Cases
+
+**1. SparkDeFi DAO**
+
+Decentralized governance is one of the most important aspects of the SparkDeFi ecosystem. SFUEL holders can govern and decide the trajectory of the SparkDeFi platforms by giving them voting power on certain economic factors such as interest rate, collateral, Loan-to-Value (LTV) ratio, inflation, and liquidity pool rewards. This keeps the platform more secure, flexible and continuously evolving. Each SFUEL token is equivalent to one vote, so owning more SFUEL tokens entitles holders to more votes.
+
+**2. Mode of Payment**
+
+SFUEL tokens will be used for paying the platform’s fees in SparkDeFi either in the form of interest income for the lenders and savers or interest payments from the borrowers. 
+
+**3. Staking Rewards**
+
+SFUEL tokens will be used as rewards in our Liquidity Mining or Savings Pool when users stake either SFUEL or SRK pairs.
+
+**4. Governance Incentives**
+
+SFUEL holders who participates in SparkDefI governance for its continuous and sustained improvement and growth are entitled to SFUEL rewards.
+
+#### Vesting Schedule
+
+**Token Distribution Plan**
+
+![SparkDeFi Roadmap](images/sparkdefi-roadmap.png)
 
 ## Moving Forward
 
