@@ -107,11 +107,12 @@ Unlike the prevalent traditional system in place, DeFi’s way of loaning relies
 
 ### 4. DeFi Assets Protocols Management
 
-The client of SparkDeFi can seamlessly access and connect to various DeFi projects for an end-to-end DeFi experience. Furthermore, the client can easily manage assets portfolio and collateralized debt positions (CDPs) in a simple and user-friendly dashboard.
+Users can seamlessly access and connect to various SparkDeFi projects for an end-to-end DeFi experience. Furthermore, you can easily manage assets portfolio and collateralized debt positions (CDPs) in a simple and user-friendly dashboard.
 
-[Bitcoin and many other digital-native assets](https://github.com/DeFinerOrg)  stand out from legacy digital payment methods, such as those run by Visa and PayPal, in the remove all middlemen from the transaction when you pay with a credit card for the coffee bill a financial institution sits between you and the business, with control over the transaction, retaining the authority to stop or pause it and record it in its private cut out of the price.
 
-Applications in cryptocurrency or blockchain technology towards disrupting financial intermediaries, DeFi is the term which draws from the blockchain technology behind the digital currency yet very famous “bitcoin” DeFi is distinct because it expands the use of the blockchain from very simple to more complex financial use cases.
+[Bitcoin and many other digital-native assets](https://github.com/DeFinerOrg) stand out from traditional digital payment methods, such as those run by Visa and PayPal, in removing middlemen from the transaction. Also, when you pay with a credit card for the coffee bill a financial institution sits between you and the business. This provides control over the transaction, retaining the authority to stop or pause it and record it in its private cut out of the price.
+
+Applications in cryptocurrency or blockchain technology lean towards disrupting financial intermediaries. DeFi is the term that draws from the blockchain technology behind the digital currency yet very famous “Bitcoin”. DeFi is distinct because it expands the use of the blockchain from very simple to more complex financial use cases.
 
 Also, the protocol aims to introduce a novel incentive structure that promotes holding the token and providing liquidity on exchanges.
 
