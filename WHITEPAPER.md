@@ -62,8 +62,6 @@ SparkDeFi utilizes computer programs for yield farming, otherwise known as “li
 
 SparkDeFi is a governance token-based DeFi platform that empowers individuals to unlock the true value of their cryptocurrency assets. It offers a Decentralized Exchange (DEX), Multi-Staking, P2P Lending and Borrowing, and DeFi Assets Protocols Management in a seamless, transparent, secure, inclusive, and interoperable approach.
 
-The SFUEL is SparkDeFi’s governance token with a total supply of 150,000,000.00 (one hundred fifty million) tokens. The SFUEL will be launched as a BEP20 token on the Binance Smart Chain in Q4 of 2020. For the sake of proper structuring, the governance of SparkDeFi will be delegated to SFUEL holders. The Decentralized Autonomous Organization (DAO) members are responsible for the direction of the protocol via systematic voting.
-
 With DeFi having the potential to disrupt the future of the global economy, here are some of the revolutionary concepts of our SparkDeFi platform that could catapult the world of finance management to new heights.
 
 ### 1. SparkSwap Decentralized Exchange (DEX)
@@ -220,6 +218,8 @@ Lower minimum lending amount, lower barrier to entry, more inclusive approach to
 
 ## SFUEL Token Economics
 
+The SFUEL is SparkDeFi’s governance token with a total supply of 150,000,000.00 (one hundred fifty million) tokens. The SFUEL will be launched as a BEP20 token on the Binance Smart Chain in Q4 of 2020. For the sake of proper structuring, the governance of SparkDeFi will be delegated to SFUEL holders. The Decentralized Autonomous Organization (DAO) members are responsible for the direction of the protocol via systematic voting.
+
 ### Utilities and Use Cases
 
 ![SparkDeFi Roadmap](images/sfuel-token-infographic.png)
@@ -242,9 +242,27 @@ SFUEL holders who participates in SparkDefI governance for its continuous and su
 
 ### Vesting Schedule
 
+|                                 | Allocation      | Percentage | Vesting                                                        |
+| ------------------------------- | ---------------:| ----------:| -------------------------------------------------------------- |
+| Private Sale                    | 28,333,350      | 18.8889%   | 6 months vesting and 16.67% monthly distribution               |
+| Early Supporters                | 1,666,650       | 1.1111%    | 3 months vesting and 33.33% monthly distribution               |
+| Team                            | 75,000,000      | 50%        | In accordance with staking rewards program schedule            |
+| Marketing and Community Rewards | 15,000,000      | 10%        | 2 years cliff and 5 years vesting with 20% yearly distribution |
+| Liquidity and Staking Rewards   | 15,000,000      | 10%        | Locked at TGE and distribution details will be announced       |
+| Reserve                         | 15,000,000      | 10%        | Locked up for the next 5 years                                 |
+| **Total**                       | **150,000,000** | **100%**   |                                                                |
+
 #### Token Distribution Plan
 
 ![SparkDeFi Roadmap](images/sfuel-token-distribution-chart.png)
+
+#### Expected Use Of Funds
+
+![SparkDeFi Roadmap](images/use-of-funds-infographic.png)
+
+#### Initial Market Cap
+
+![SparkDeFi Roadmap](images/initial-market-cap-table.png)
 
 ### Governance Structure
 
