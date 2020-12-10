@@ -32,10 +32,10 @@ SparkPoint Decentralized Finance platform.
   * Regulatory Risk or Compliance
   * Technical Issues with Smart Contracts
   * Network Security
-  * [SFUEL Token Economics](#sfuel-token-economics)
-    * [Utilities and Use Cases](#utilities-and-use-cases)
-    * [Vesting Schedule](#vesting-schedule)
-  * Governance Structure
+* [SFUEL Token Economics](#sfuel-token-economics)
+  * [Utilities and Use Cases](#utilities-and-use-cases)
+  * [Vesting Schedule](#vesting-schedule)
+  * [Governance Structure](#governance-structure)
 * [Moving Forward](#moving-forward)
   * [Roadmap](#roadmap)
   * [Revenue Model](#revenue-model)
@@ -218,9 +218,9 @@ Lower minimum lending amount, lower barrier to entry, more inclusive approach to
 
 ## SparkDeFi Ecosystem Security and Architecture
 
-### SFUEL Token Economics
+## SFUEL Token Economics
 
-#### Utilities and Use Cases
+### Utilities and Use Cases
 
 **1. SparkDeFi DAO**
 
@@ -238,11 +238,13 @@ SFUEL tokens will be used as rewards in our Liquidity Mining or Savings Pool whe
 
 SFUEL holders who participates in SparkDefI governance for its continuous and sustained improvement and growth are entitled to SFUEL rewards.
 
-#### Vesting Schedule
+### Vesting Schedule
 
-**Token Distribution Plan**
+#### Token Distribution Plan
 
-![SparkDeFi Roadmap](images/sparkdefi-roadmap.png)
+![SparkDeFi Roadmap](images/sfuel-token-distribution-chart.png)
+
+### Governance Structure
 
 ## Moving Forward
 
