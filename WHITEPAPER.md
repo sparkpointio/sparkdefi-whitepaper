@@ -244,7 +244,7 @@ SFUEL holders who participates in SparkDefI governance for its continuous and su
 
 |                                 | Allocation      | Percentage | Vesting                                                        |
 | ------------------------------- | ---------------:| ----------:| -------------------------------------------------------------- |
-| Private Sale                    | 28,333,3350     | 18.8889%   | 6 months vesting and 16.67% monthly distribution               |
+| Private Sale                    | 28,333,350      | 18.8889%   | 6 months vesting and 16.67% monthly distribution               |
 | Early Supporters                | 1,666,650       | 1.1111%    | 3 months vesting and 33.33% monthly distribution               |
 | Team                            | 75,000,000      | 50%        | In accordance with staking rewards program schedule            |
 | Marketing and Community Rewards | 15,000,000      | 10%        | 2 years cliff and 5 years vesting with 20% yearly distribution |
