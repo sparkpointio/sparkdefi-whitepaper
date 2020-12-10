@@ -91,21 +91,19 @@ If you genuinely understand the staking pool and consistently take a part in it 
 
 ### 3. P2P Lending and Borrowing
 
-In SparkDeFi, it is allowed to use altcoins and Non-Fungible Tokens (NFTs) or cryptocurrency collectibles such as game items, virtual estate, and digital artworks as collateral. The platform enables micro-lending to democratize finance and promote financial inclusion. This ensures the client consistently generates a stream of cash flow through the liquidity savings pool. Read [The Growing Popularity of NFTs](#the-growing-popularity-of-nfts) section to learn why we're supporting NFTs.
+In SparkDeFi, it is allowed to use altcoins and Non-Fungible Tokens (NFTs) such as game items, virtual estate, and digital artworks as collateral. The platform enables micro-lending to democratize finance and promote financial inclusion. This ensures that the client consistently generates a stream of cash flow through the liquidity savings pool.
 
-While Decentralized Finance may have sprouted a new system for finance management, DeFi also established a system of money lending and borrowing, with a ton of upside packaged into the deal.
+Read [The Growing Popularity of NFTs](#the-growing-popularity-of-nfts) section to learn why we're supporting NFTs.
 
-For instance, the demand and further growth for lending services propels DeFi’s service capability, ensuring hassle-free debt systems. Additionally, the benefits DeFi provides highly out scales the current financial system’s loan service offerings.
+Aside from pioneering a new system for finance management, DeFi also establishes a system of money lending and borrowing with a ton of upside packaged into the deal.
 
-For instance, the demand and further growth for lending services propel DeFi’s service capability, ensuring hassle-free debt systems. Additionally, the benefits DeFi provides highly out scales the current financial system’s loan service offerings.
+For instance, the demand and further growth for lending services propel DeFi’s service capability and ensures hassle-free debt systems. The growth of the DeFi lending-borrowing system comes, in part, with the constant marking-down of technological fees. This in return makes the revolutionary debt model to be further inclusive and non-punitive to borrowers.
 
-For example, the growth of the DeFi lending-borrowing system is, in part, with the constant marking-down of technological fees. This in return makes the revolutionary debt model to be further inclusive and non-punitive to borrowers.
+Substantiating the previously-raised point, DeFi’s debt set-up typically has lower overhead costs. In comparison with the traditional system, DeFi indeed has the cost advantage. This is due to the widespread usage of tech and data, accustoming the new system to have less “brick and mortar” results. Thus, the yielding of the capability to work for lower interest returns.
 
-Substantiating the previously-raised point, Decentralized Finance’s debt set-up typically has lower overhead costs. In comparison with the traditional system, DeFis indeed have the cost advantage. Well, this is in part with the widespread usage of tech and data, accustoming the new system to have less “brick and mortar” results; with it yielding the capability to work for lower interest returns.
+Similarly, the DeFi-jointed loan-borrow structure gives greater access to capital. This is especially helpful for borrowers who are not yet credit-rated by traditional financial authorities. In a way, DeFi helps these small and medium-sized enterprises (SMEs) to gather capital by providing seamless and relevant methodologies.
 
-Similarly, the DeFi-jointed loan-borrow structure gives greater access to capital. This is especially helpful for borrowers who aren’t credit-rated by traditional financial authorities yet. In a way, DeFi helps these Small and Medium-sized Enterprises (SMEs) to gather capital, by providing seamless and relevant methodologies.
-
-Unlike the prevalent traditional system in place, DeFi’s way of loaning relies on the market-driven sphere of the consumers. Operating on the dogma of transparency and market opinion, the investors of the said DeFi institutions have the final say whether a start-up business is worthy of receiving funding. In this regard, the progressive orientation of lending and borrowing outright challenges the quo of traditional institutions to provide financial aid.
+Unlike the prevalent traditional system in place, DeFi’s way of loaning relies on the market-driven sphere of the consumers. Operating on the dogma of transparency and market opinion, the supporters of the said DeFi institutions have the final say whether a start-up business is worthy to receive funding. In this regard, the progressive orientation of lending and borrowing outright challenges the quo of traditional institutions to provide financial aid.
 
 ### 4. DeFi Assets Protocols Management
 
