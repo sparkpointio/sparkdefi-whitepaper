@@ -236,6 +236,7 @@ Revenue from transaction fees.
 
 * Andy Agnas, CPA - CEO
 * Rico Zuñiga - CTO
+* [See Team Page](https://srk.finance/team.html)
 
 ### Official Support Channels
 
