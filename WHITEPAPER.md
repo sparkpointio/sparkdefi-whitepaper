@@ -222,6 +222,8 @@ Lower minimum lending amount, lower barrier to entry, more inclusive approach to
 
 ### Utilities and Use Cases
 
+![SparkDeFi Roadmap](images/sfuel-token-infographic.png)
+
 **1. SparkDeFi DAO**
 
 Decentralized governance is one of the most important aspects of the SparkDeFi ecosystem. SFUEL holders can govern and decide the trajectory of the SparkDeFi platforms by giving them voting power on certain economic factors such as interest rate, collateral, Loan-to-Value (LTV) ratio, inflation, and liquidity pool rewards. This keeps the platform more secure, flexible and continuously evolving. Each SFUEL token is equivalent to one vote, so owning more SFUEL tokens entitles holders to more votes.
