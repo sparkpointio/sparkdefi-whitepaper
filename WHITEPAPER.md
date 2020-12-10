@@ -171,6 +171,49 @@ The P2P lending platforms have provided individual investors with a new assets i
 
 Forwarding a new type of loan and debt system, DeFi pushes to fill the gaps of the traditional system—which is especially found in the lend-borrowing system by mainstream financial models.
 
+## Problems
+
+### Lack of Interoperability
+
+The gap in interoperability is one of the challenges present in DeFi. This challenge stems out from the siloed ecosystem created by blockchain technology. Different blockchain networks have different communities, consensus, and hashing algorithms which make standardization and collaboration tricky.<sup>7</sup> In short, blockchain networks are highly fragmented and disconnected. Each of the blockchain networks specializes in different capabilities making communication among the blockchain networks non-existent.
+
+The lack of interoperability with blockchain networks creates a clumsy user experience. For example, the user is planning to transact on the Ethereum network with his Bitcoin but to use Bitcoin on the Ethereum network he needs to convert his Bitcoin to Ether using a cryptocurrency exchange. This method is not only time-consumptive but expensive and frustrating for you. With this, creators of DeFi platforms must create interoperable solutions to fully unlock the true value of DeFi.
+
+### Non-inclusive Approach to P2P Lending
+
+Minimum loan amounts are high and not accessible to many people.
+
+### Limited Crypto Assets as Collateral
+
+Most of the DeFi lending platforms available today utilize altcoins or governance tokens as a form of collateral for loans<sup>8, 9</sup>, leaving Non-Fungible Tokens(NFTs) and other crypto-collectibles like game items, virtual estate, and digital as untapped digital assets for collateral.
+
+Hence, the meager selection of crypto assets available for collateral in current DeFi lending vehicles limits the usage and maximization of the user’s digital portfolio.
+
+### Costly and Inefficient Credit Risk and Assessment
+
+Peer-to-peer lending also attracts borrowers who, because of their credit status or the lack thereof, are unqualified for traditional bank loans. Because past behavior is frequently indicative of future performance and low credit scores correlate with a high likelihood of default, peer-to-peer intermediaries have started to decline a large number of applicants and charge higher interest rates to riskier borrowers that are approved.<sup>10</sup>
+
+### Over-Collateralized Loans
+
+Over-collateralization of loans exists in DeFi platforms due to the high market price volatility of cryptocurrency assets. Therefore, the biggest factor in obtaining a loan in a DeFi platform is how much cryptocurrency the borrower can provide.<sup>11</sup> To safeguard the lenders from the price volatility of cryptocurrencies, most of the loans are over-collateralized. As of July 2020, the standard collateral ratio size in DeFi borrowing or lending services is 300%. <sup>12</sup> The high collateral ratio hampers the goal of DeFi which is to make financial services to everyone.
+
+During the Ethereal Virtual Summit 2020, many high-profile panelists proposed that having a low collateral ratio will solve the issue of over-collateralization which in return will result in a higher adoption rate of DeFi. <sup>13</sup>
+
+## Solutions
+
+### Interoperability
+
+
+SparkDeFi addresses the lack of interoperability by choosing Binance Smart Chain to power its platform because it can support users across multiple blockchains. Binance Smart Chain is a blockchain that runs parallel to the Binance Chain. Binance Smart Chain has cross-chain compatibility that allows users to smoothly transfer assets from one blockchain to another. <sup>14</sup> Thus, SparkDeFi through the cross-chain architecture of Binance Smart Chain allows the transfer of cryptocurrency assets among blockchain networks seamless.
+
+### Innovative P2P Lending
+
+SparkDeFi revolutionizes P2P Lending by allowing various cryptocurrency assets like altcoins, Non-Fungible Tokens (NFTs), and crypto-collectibles like game items, virtual estate, and digital art as collateral which are currently untapped by the existing DeFi lending protocols.
+
+### Microlending
+
+Lower minimum lending amount, lower barrier to entry, more inclusive approach to lending.
+
 ## Moving Forward
 
 ### Roadmap
@@ -210,4 +253,15 @@ Revenue from transaction fees.
 <sup>3</sup> https://defipulse.com/  
 <sup>4</sup> https://academy.ivanontech.com/blog/non-fungible-tokens-explaining-nfts-erc-721-and-erc-1155  
 <sup>5</sup> https://cointelegraph.com/news/nfts-take-on-defi-nonfungible-tokens-push-to-be-the-next-crypto-craze  
-<sup>6</sup>  https://cointelegraph.com/explained/dex-explained  
+<sup>6</sup> https://cointelegraph.com/explained/dex-explained  
+<sup>7</sup> https://smartassets.one/the-role-of-interoperability-in-decentralized-finance-defi/  
+<sup>8</sup> https://defirate.com/tokens/  
+<sup>9</sup>
+* https://app.compound.finance/
+* https://makerdao.com/en/
+* https://aavew.com/
+<sup>10</sup> https://www.ft.com/cms/s/0/2345e94a-0bb1-11e1-9a61-00144feabdc0.html#ixzz21aKdQtwL  
+<sup>11</sup> https://dailyfintech.com/2019/09/09/42596/  
+<sup>12</sup> https://smartcredit.io/why-is-the-collateral-ratio-so-high-in-defi/  
+<sup>13</sup> https://decrypt.co/28180/defi-needs-better-loans-to-see-mass-adoption-say-experts  
+<sup>14</sup> https://academy.binance.com/en/articles/an-introduction-to-binance-smart-chain-bsc  
