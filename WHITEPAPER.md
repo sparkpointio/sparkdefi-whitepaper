@@ -176,17 +176,17 @@ Forwarding a new type of loan and debt system, DeFi pushes to fill the gaps of t
 
 ![SparkDeFi Roadmap](images/sparkdefi-roadmap.png)
 
-Our team is looking to raise funding this year to be able to focus on the development and launch of the SparkDeFi platform in 2021. SparkDefi’s various products will be launched in stages starting with the SFUEL and SRK Liquidity Mining which will launch before the end of this year.
+Our team is looking to raise funding this year to be able to focus on the development and launch of the SparkDeFi platform in 2021. SparkDeFi’s various products will be launched in stages starting with the SFUEL and SRK Liquidity Mining which will launch before the end of this year.
 
 Next is our own DEX, SparkSwap, which will launch in Q1 2021. Then our P2P Lending and Borrowing platform will launch in Q3 2021. Our fourth and final SparkDeFi product is our DeFi Protocols Management platform which has a target testnet launch of Q4 2021 and a mainnet launch in 2022.
 
-One of the biggest main points that we’ve learned in DeFi is the cost and speed of transactions. Because of this, our team has decided to launch SparkDeFi on Binance Smart Chain to take advantage of its speed and lower cost. Our team will also benefit from Binance’s strong support of the developer community. In this regard, we’ve submitted our interest to apply for a slice of their $100M Support Fund.
+One of the biggest pain points that we’ve learned in DeFi is the cost and speed of transactions. Because of this, our team has decided to launch SparkDeFi on Binance Smart Chain to take advantage of its speed and lower cost. Our team will also benefit from Binance’s strong support of the developer community. In this regard, we’ve submitted our interest to apply for a slice of their $100M Support Fund.
 
 ### Revenue Model
 
 SRK holders will benefit from the SparkDeFi platform because the SRK token will also be utilized in its staking, swapping, and P2P lending solutions. As early supporters of the SparkDeFi platform, SRK holders will be given priority in the private sale. They are entitled to a quarterly airdrop distribution beginning this Q4 2020. Deflationary token model.
 
-Revenue from transactions fees.
+Revenue from transaction fees.
 
 ### SparkPoint Team
 
