@@ -14,19 +14,20 @@ SparkPoint Decentralized Finance platform.
   * [DeFi Assets Protocols Management](#4-defi-assets-protocols-management)
   * [Decentralized Governance](#5-decentralized-governance)
 * [Market Opportunities](#market-opportunities)
-  * 1.1 [The Rise of DeFi](#the-rise-of-defi)
-  * 1.2 [The Growing Popularity of NFTs](#the-growing-popularity-of-nfts)
-  * 1.3 [Decentralized Exchanges](#decentralized-exchanges)
-  * 1.4 [P2P Lending and Borrowing](#p2p-lending-and-borrowing)
-* Problems
-  * 1.1 Lack of Interoperability
-  * 1.2 Non-inclusive approach to P2P Lending
-  * 1.3 Limited crypto assets as collateral
-  * 1.4 Costly and inefficient credit risk and assessment
-  * 1.5 Over-Collateralized Loans
-* Solutions
-  * 1.1 Innovative P2P Lending
-  * 1.2 Microlending
+  * [The Rise of DeFi](#the-rise-of-defi)
+  * [The Growing Popularity of NFTs](#the-growing-popularity-of-nfts)
+  * [Decentralized Exchanges](#decentralized-exchanges)
+  * [P2P Lending and Borrowing](#p2p-lending-and-borrowing)
+* [Problems](#problems)
+  * [Lack of Interoperability](#lack-of-interoperability)
+  * [Non-inclusive Approach to P2P Lending](#non-inclusive-approach-to-p2p-lending)
+  * [Limited Crypto Assets as Collateral](#limited-crypto-assets-as-collateral)
+  * [Costly and Inefficient Credit Risk and Assessment](#costly-and-inefficient-credit-risk-and-assessment)
+  * [Over-Collateralized Loans](#over-collateralized-loans)
+* [Solutions](#solutions)
+  * [Interoperability](#interoperability)
+  * [Innovative P2P Lending](#innovative-p2p-lending)
+  * [Microlending](#microlending)
 * SparkDeFi Ecosystem Security and Architecture
   * Regulatory Risk or Compliance
   * Technical Issues with Smart Contracts
