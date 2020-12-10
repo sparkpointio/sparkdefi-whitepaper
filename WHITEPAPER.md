@@ -158,7 +158,7 @@ One of the advantages of peer-to-peer or “P2P” is that its financing may be 
 
 P2P is beneficial because of the low cost of technology. The platform uses such technology in several ways. One example is when an internet interface could be used to onboard borrowers and lenders. The algorithms could automate the assignment of credit scores, and algorithms could automate the selection and diversification of loan investments by the lenders.
 
-The P2P lending platforms prioritize the Small and Mid-size Enterprises (SMEs) and start-ups. These businesses are traditionally served by banks, as well as consumers, to attract capital more quickly.
+The P2P lending platforms prioritize SMEs and start-ups. These businesses are traditionally served by banks, as well as consumers, to attract capital more quickly.
 
 The post-crisis environment of low-interest rates and very low or even negative yields on sovereign bonds has led investors to look for alternative investments with potentially higher yields. Loans facilitated by P2P lending platforms typically offer those higher returns, though they may come with higher risk.
 
@@ -166,7 +166,7 @@ The P2P lending allows individual investors to invest in, or extend P2P loans, a
 
 The P2P lending can provide credit to borrowers, especially SMEs, that do not have access to bank loans. This, in effect, increases the total loans provided to the small business sector. The same lending platforms have cost advantages compared to banks. Their overhead costs are low since they leverage technology and data, and have less “brick and mortar” related costs. As a result, they can work with low-interest margins.
 
-The P2P lending platforms have provided individual investors with a new asset in the form of uncollateralized debt. Individual investors can spread small sums of money across many loans at a low cost. This is one of the features that can be obtained in SparkDeFi.
+The P2P lending platforms have provided individual investors with a new assets in the form of uncollateralized debt. Individual investors can spread small sums of money across many loans at a low cost. This is one of the features that can be obtained in SparkDeFi.
 
 Forwarding a new type of loan and debt system, DeFi pushes to fill the gaps of the traditional system—which is especially found in the lend-borrowing system by mainstream financial models.
 
