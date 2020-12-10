@@ -258,8 +258,8 @@ Revenue from transaction fees.
 <sup>7</sup> https://smartassets.one/the-role-of-interoperability-in-decentralized-finance-defi/  
 <sup>8</sup> https://defirate.com/tokens/  
 <sup>9</sup> https://app.compound.finance/  
-https://makerdao.com/en/  
-https://aavew.com/  
+<sup>9</sup> https://makerdao.com/en/  
+<sup>9</sup> https://aavew.com/  
 <sup>10</sup> https://www.ft.com/cms/s/0/2345e94a-0bb1-11e1-9a61-00144feabdc0.html#ixzz21aKdQtwL  
 <sup>11</sup> https://dailyfintech.com/2019/09/09/42596/  
 <sup>12</sup> https://smartcredit.io/why-is-the-collateral-ratio-so-high-in-defi/  
