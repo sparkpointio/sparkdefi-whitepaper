@@ -181,30 +181,34 @@ The lack of interoperability with blockchain networks creates a clumsy user expe
 
 ### Non-inclusive Approach to P2P Lending
 
-Minimum loan amounts are high and not accessible to many people.
+More than two billion people remain financially excluded in the world.<sup>8</sup> In most developing countries, more than two-thirds of the adult population has no access to formal financial services, and in sub-Saharan Africa, financial exclusion is as high as 76%.<sup>9</sup> This means that these excluded people have limited access or no access at all to the services offered by traditional finance.
+
+These people are usually situated in rural areas or they have limited sources of income thus most of the banks opt not to work with them as clients. One of the primary reasons often given by banks is that these customers would not be profitable. According to one study, it costs a bank $250-$400 to open and maintain a bank account for a person.<sup>10</sup>
+
+Due to this limitation of being unbanked, those excluded do not have access to credit facilities of traditional finance because they do not have the financial track record or credit-worthy assessment associated with them. Furthermore, the high collateral requirement of traditional financial services inhibits them from applying for loans.  So, every time they encounter cash flow problems the financially excluded people resort to highly volatile loans. 
 
 ### Limited Crypto Assets as Collateral
 
-Most of the DeFi lending platforms available today utilize altcoins or governance tokens as a form of collateral for loans<sup>8, 9</sup>, leaving Non-Fungible Tokens(NFTs) and other crypto-collectibles like game items, virtual estate, and digital as untapped digital assets for collateral.
+Most of the DeFi lending platforms available today utilize altcoins or governance tokens as a form of collateral for loans, leaving Non-Fungible Tokens(NFTs) and other crypto-collectibles like game items, virtual estate, and digital as untapped digital assets for collateral.<sup>11, 12</sup>
 
 Hence, the meager selection of crypto assets available for collateral in current DeFi lending vehicles limits the usage and maximization of the user’s digital portfolio.
 
 ### Costly and Inefficient Credit Risk and Assessment
 
-Peer-to-peer lending also attracts borrowers who, because of their credit status or the lack thereof, are unqualified for traditional bank loans. Because past behavior is frequently indicative of future performance and low credit scores correlate with a high likelihood of default, peer-to-peer intermediaries have started to decline a large number of applicants and charge higher interest rates to riskier borrowers that are approved.<sup>10</sup>
+Peer-to-peer lending also attracts borrowers who, because of their credit status or the lack thereof, are unqualified for traditional bank loans. Because past behavior is frequently indicative of future performance and low credit scores correlate with a high likelihood of default, peer-to-peer intermediaries have started to decline a large number of applicants and charge higher interest rates to riskier borrowers that are approved.<sup>13</sup>
 
 ### Over-Collateralized Loans
 
-Over-collateralization of loans exists in DeFi platforms due to the high market price volatility of cryptocurrency assets. Therefore, the biggest factor in obtaining a loan in a DeFi platform is how much cryptocurrency the borrower can provide.<sup>11</sup> To safeguard the lenders from the price volatility of cryptocurrencies, most of the loans are over-collateralized. As of July 2020, the standard collateral ratio size in DeFi borrowing or lending services is 300%. <sup>12</sup> The high collateral ratio hampers the goal of DeFi which is to make financial services to everyone.
+Over-collateralization of loans exists in DeFi platforms due to the high market price volatility of cryptocurrency assets. Therefore, the biggest factor in obtaining a loan in a DeFi platform is how much cryptocurrency the borrower can provide.<sup>14</sup> To safeguard the lenders from the price volatility of cryptocurrencies, most of the loans are over-collateralized. As of July 2020, the standard collateral ratio size in DeFi borrowing or lending services is 300%. <sup>15</sup> The high collateral ratio hampers the goal of DeFi which is to make financial services to everyone.
 
-During the Ethereal Virtual Summit 2020, many high-profile panelists proposed that having a low collateral ratio will solve the issue of over-collateralization which in return will result in a higher adoption rate of DeFi. <sup>13</sup>
+During the Ethereal Virtual Summit 2020, many high-profile panelists proposed that having a low collateral ratio will solve the issue of over-collateralization which in return will result in a higher adoption rate of DeFi. <sup>16</sup>
 
 ## Solutions
 
 ### Interoperability
 
 
-SparkDeFi addresses the lack of interoperability by choosing Binance Smart Chain to power its platform because it can support users across multiple blockchains. Binance Smart Chain is a blockchain that runs parallel to the Binance Chain. Binance Smart Chain has cross-chain compatibility that allows users to smoothly transfer assets from one blockchain to another. <sup>14</sup> Thus, SparkDeFi through the cross-chain architecture of Binance Smart Chain allows the transfer of cryptocurrency assets among blockchain networks seamless.
+SparkDeFi addresses the lack of interoperability by choosing Binance Smart Chain to power its platform because it can support users across multiple blockchains. Binance Smart Chain is a blockchain that runs parallel to the Binance Chain. Binance Smart Chain has cross-chain compatibility that allows users to smoothly transfer assets from one blockchain to another. <sup>17</sup> Thus, SparkDeFi through the cross-chain architecture of Binance Smart Chain allows the transfer of cryptocurrency assets among blockchain networks seamless.
 
 ### Innovative P2P Lending
 
@@ -212,7 +216,7 @@ SparkDeFi revolutionizes P2P Lending by allowing various cryptocurrency assets l
 
 ### Microlending
 
-Lower minimum lending amount, lower barrier to entry, more inclusive approach to lending.
+SparkDeFi supports financial inclusion by offering a more all-encompassing approach in terms of lending. These approaches include a lower barrier to entry, minimal loan-to-value (LTV) ratio, and microlending which serves as another provision in solving overcollateralization through small, low-interest loans to borrowers. Furthermore, the adoption of a trust score enabled by smart contracts is considered to eventually forego the need for collateral in P2P Lending. 
 
 ## SparkDeFi Ecosystem Security and Architecture
 
@@ -308,12 +312,15 @@ Revenue from transaction fees.
 <sup>5</sup> https://cointelegraph.com/news/nfts-take-on-defi-nonfungible-tokens-push-to-be-the-next-crypto-craze  
 <sup>6</sup> https://cointelegraph.com/explained/dex-explained  
 <sup>7</sup> https://smartassets.one/the-role-of-interoperability-in-decentralized-finance-defi/  
-<sup>8</sup> https://defirate.com/tokens/  
-<sup>9</sup> https://app.compound.finance/  
-<sup>9</sup> https://makerdao.com/en/  
-<sup>9</sup> https://aavew.com/  
-<sup>10</sup> https://www.ft.com/cms/s/0/2345e94a-0bb1-11e1-9a61-00144feabdc0.html#ixzz21aKdQtwL  
-<sup>11</sup> https://dailyfintech.com/2019/09/09/42596/  
-<sup>12</sup> https://smartcredit.io/why-is-the-collateral-ratio-so-high-in-defi/  
-<sup>13</sup> https://decrypt.co/28180/defi-needs-better-loans-to-see-mass-adoption-say-experts  
-<sup>14</sup> https://academy.binance.com/en/articles/an-introduction-to-binance-smart-chain-bsc  
+<sup>8</sup> Robert Cull, Asli Demirguc-Kunt, Jonathan Morduch, ‘Banking the World: Empirical Foundations of Financial Inclusion’, Massachusetts Institute of Technology, 2013.  
+<sup>9</sup> Klapper and Demirguc-Kunt, ‘Measuring Financial Inclusion: The Global Findex Database’, World Bank Policy Research Paper 6025, 2012.  
+<sup>10</sup> https://www.bankdirector.com/issues/the-profitability-of-the-average-checking-account/  
+<sup>11</sup> https://defirate.com/tokens/  
+<sup>12</sup> https://app.compound.finance/  
+<sup>12</sup> https://makerdao.com/en/  
+<sup>12</sup> https://aavew.com/  
+<sup>13</sup> https://www.ft.com/cms/s/0/2345e94a-0bb1-11e1-9a61-00144feabdc0.html#ixzz21aKdQtwL  
+<sup>14</sup> https://dailyfintech.com/2019/09/09/42596/  
+<sup>15</sup> https://smartcredit.io/why-is-the-collateral-ratio-so-high-in-defi/  
+<sup>16</sup> https://decrypt.co/28180/defi-needs-better-loans-to-see-mass-adoption-say-experts  
+<sup>17</sup> https://academy.binance.com/en/articles/an-introduction-to-binance-smart-chain-bsc  
