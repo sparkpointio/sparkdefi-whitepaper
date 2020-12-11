@@ -242,7 +242,7 @@ SFUEL tokens will be used as rewards in our Liquidity Mining or Savings Pool whe
 
 **4. Governance Incentives**
 
-SFUEL holders who participates in SparkDefI governance for its continuous and sustained improvement and growth are entitled to SFUEL rewards.
+SFUEL holders who participates in SparkDeFi governance for its continuous and sustained improvement and growth are entitled to SFUEL rewards.
 
 ### Vesting Schedule
 
