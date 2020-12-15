@@ -1,6 +1,6 @@
 # SparkDeFi White Paper
 
-SparkPoint Decentralized Finance platform.
+SparkPoint Decentralized Finance Platform
 
 ## Table of Contents
 
@@ -44,57 +44,57 @@ SparkPoint Decentralized Finance platform.
 
 ## Introduction
 
-There is a significant paradigm shift that is happening now in our financial world. Banks have traditionally always been the money guardians of the people. However, the events that transpired during 2020 has shown us that various transactions in people's lives can be simplified and moved online. There are new innovative technologies and tools that were developed recently that can meet the financial needs of the people. One of these new technologies is DeFi, which has the potential to disrupt the function of banks as middlemen.
+There is a significant paradigm shift that is happening now in the financial world. Banks have traditionally always been the money guardians of the people. However, the events that transpired during 2020 has shown that various transactions in people's lives can be simplified and moved online. Some new innovative technologies and tools were developed recently that can meet the financial needs of the people. One of these new technologies is DeFi, which has the potential to disrupt the function of banks as middlemen. 
 
 ### Decentralized Finance
 
-Decentralized Finance (DeFi) is the future of banking. DeFi is a type of money market that can provide you with income through interest, or you can borrow assets against collateral. These are products or services that aim to mimic the products and services that already exist in the traditional financial world. So far, DeFi's Total Value Locked (TVL) has reached [12B USD in assets](https://blockchain.news/news/defi-12-billion-total-value-locked-ethereum-transacts-2x-bitcoin-daily). These assets are called cryptocurrency assets because it is in the form of digital tokens.
+Decentralized Finance (DeFi) is the future of banking. DeFi is a type of money market that can provide the user with income through interest, or the user can borrow assets against collateral. These are products or services that aim to mimic the products and services that already exist in the traditional financial world. So far, DeFi's Total Value Locked (TVL) has reached [12B USD in assets](https://blockchain.news/news/defi-12-billion-total-value-locked-ethereum-transacts-2x-bitcoin-daily). These assets are called cryptocurrency assets because it is in the form of digital tokens.
 
 DeFi is a type of futuristic economical management system that supports and delegates full financial control to its users, without the need for financial intermediaries. It seeks to transform the current financial management model’s intensive reliance on centralized fiscal authorities. Moreover, DeFi advocates for the creation of transparent and accessible banking tools for the inclusive and encompassing usage of those seeking to avail of financial services.
 
 Considered by financial experts as innovative, DeFi seeks to further consolidate the financial products and services offered by centralized banking authorities for the people seamlessly.
 
-One of the online platforms that offers Decentralized Finance solutions is SparkDeFi. SparkDeFi operates with the notion that not every person is skilled in yield farming. Decentralized Finance and yield farming go hand in hand because the latter is the most familiar approach that makes DeFi trustless and high-yielding.
+One of the online platforms that offer Decentralized Finance solutions is SparkDeFi. SparkDeFi operates with the notion that not every person is skilled in yield farming. Decentralized Finance and yield farming go hand in hand because the latter is the most familiar approach that makes DeFi trustless and high-yielding.
 
-SparkDeFi utilizes computer programs for yield farming, otherwise known as “liquidity mining.” These programs make it easy for beginners in cryptocurrency and more convenient for the experienced ones. You, the client, can reap rewards by locking up cryptocurrency.
+SparkDeFi utilizes computer programs for yield farming, otherwise known as “liquidity mining.” These programs make it easy for beginners in cryptocurrency and more convenient for the experienced ones. The user can reap rewards by locking up cryptocurrency.
 
 ## SparkDeFi
 
 SparkDeFi is a governance token-based DeFi platform that empowers individuals to unlock the true value of their cryptocurrency assets. It offers a Decentralized Exchange (DEX), Multi-Staking, P2P Lending and Borrowing, and DeFi Assets Protocols Management in a seamless, transparent, secure, inclusive, and interoperable approach.
 
-With DeFi having the potential to disrupt the future of the global economy, here are some of the revolutionary concepts of our SparkDeFi platform that could catapult the world of finance management to new heights.
+With DeFi having the potential to disrupt the future of the global economy, here are some of the revolutionary concepts of the SparkDeFi platform that could catapult the world of finance management to new heights.
 
 ### 1. SparkSwap Decentralized Exchange (DEX)
 
-Our own Decentralized Exchange (DEX) for a “one-stop-shop” DeFi experience. Instantly swap multiple cryptocurrencies in a trustless and decentralized manner. Earn from the transaction fees when you provide liquidity.
+SparkSwap Decentralized Exchange (DEX) has a “one-stop-shop” DeFi experience. Instantly swap multiple cryptocurrencies in a trustless and decentralized manner. Earn from the transaction fees when the user provides liquidity.
 
 ### 2. Multi-Staking
 
 #### A. Liquidity Staking
 
-Staking using cryptocurrency is one of the methods to gain more rewards using your digital assets. This is the reason why liquidity staking made a name in cryptocurrency mining and trading. It allows purchasing and permits you to hold cryptocurrency that guarantees profits and rewards.
+Staking using cryptocurrency is one of the methods to gain more rewards using digital assets. This is the reason why liquidity staking made a name in cryptocurrency mining and trading. It allows purchasing and permits the user to hold cryptocurrency that guarantees profits and rewards.
 
-Necessarily, the changes brought by cryptocurrency are adapted and practiced in this modern world. Cryptocurrency technology illustrates and exposes the borderless distributions of a blockchain product. Related to this is the occurrence of Proof of Stake (PoS) coins that you can earn without having the Proof of Work PoW.
+Necessarily, the changes brought by cryptocurrency are adapted and practiced in this modern world. Cryptocurrency technology illustrates and exposes the borderless distributions of a blockchain product. Related to this is the occurrence of Proof of Stake (PoS) coins that the user can earn without having the Proof of Work (PoW).
 
-[Yield farming](https://academy.binance.com/en/articles/what-is-yield-farming-in-decentralized-finance-defi) is a recommended practical and functional use case in DeFi. Knowledge can also be gained from participating int his activity. For instance, in liquidity staking, users can learn about different decentralized finance protocols and supported cryptocurrencies.
+[Yield farming](https://academy.binance.com/en/articles/what-is-yield-farming-in-decentralized-finance-defi) is a recommended practical and functional use case in DeFi. Knowledge can also be gained from participating in this activity. For instance, in liquidity staking, users can learn about different decentralized finance protocols and supported cryptocurrencies.
 
 #### B. Pool-Based Staking
 
 In SparkDeFi, users are encouraged to participate in the SRK and SFUEL staking pools and earn SRK or SFUEL rewards. By participating, users can stake SRK tokens or SFUEL in the regular pool-based staking and collect SRK or SFUEL rewards regularly.
 
-Staking pools are safe. All you need to do is a stake. It is considered profitable as mining and trading cryptocurrency. This indicates that the profits you will earn will be paralleled to your money and how long you have been engaging in the staking pool. The more you stake, the more massive profits you can look for. It will always come with perseverance and consistency. Do not be solely minded and participate in the staking pool to earn enough staking coins on your wallet. It is better to have a companion in progress.
+Staking pools are safe. All the user needs to do is a stake. It is considered profitable as mining and trading cryptocurrency. This indicates that the profits the user will earn will be paralleled to his money and how long he has been engaging in the staking pool. The more the user stake, the more massive profits he can look for. 
 
 The pool operator manages the staking pool by having chosen a specific pool. This specific pool might have stakeholders who desire to participate in the pool and invest their coins in a particular blockchain address or money. However, there can be an appearance of a third network. This makes it possible for some pools to require their users to participate in their staking process while regulating their wallet-coin consistently.
 
-Working or staking your coins alone would not help your stake grow. If a block requests to get your stake, the blockchain will find a suitable staking wallet to do it. Therefore, your staking wallet has a small number of chances to be chosen and get validated by the block. Hence, a single staking pool can only receive not more than 1.0% of the total staking rewards. After splitting the rewards among participants in the pool, some charges will be counted and deducted after the final payout.
+Working or staking coins alone would not help the stake grow. If a block requests to get the user’s stake, the blockchain will find a suitable staking wallet to do it. Therefore, the user’s staking wallet has a small number of chances to be chosen and get validated by the block. Hence, a single staking pool can only receive not more than 1.0% of the total staking rewards. After splitting the rewards among participants in the pool, some charges will be counted and deducted after the final payout.
 
-If you genuinely understand the staking pool and consistently take a part in it by contributing coins, there is a high chance for your staking pool to choose and get block verification. It gets a higher value than their wallets/pool. This means that you are more primed for obtaining more rewards.
+If the user genuinely understands the staking pool and consistently take a part in it by contributing coins, there is a high chance for the staking pool to be chosen and get block verification. It gets a higher value than their wallets/pool. This means that the user is more primed for obtaining more rewards.
 
 ### 3. P2P Lending and Borrowing
 
-In SparkDeFi, it is allowed to use altcoins and Non-Fungible Tokens (NFTs) such as game items, virtual estate, and digital artworks as collateral. The platform enables micro-lending to democratize finance and promote financial inclusion. This ensures that the client consistently generates a stream of cash flow through the liquidity savings pool.
+In SparkDeFi, it is allowed to use altcoins and Non-Fungible Tokens (NFTs) or cryptocollectibles such as game items, virtual estate, and digital artworks as collateral. The platform enables microlending to democratize finance and promote financial inclusion. This ensures that the user consistently generates a stream of cash flow through the liquidity savings pool.
 
-Read [The Growing Popularity of NFTs](#the-growing-popularity-of-nfts) section to learn why we're supporting NFTs.
+Read [The Growing Popularity of NFTs](#the-growing-popularity-of-nfts) section to learn why SparkDeFi is supporting NFTs.
 
 Aside from pioneering a new system for finance management, DeFi also establishes a system of money lending and borrowing with a ton of upside packaged into the deal.
 
@@ -108,10 +108,9 @@ Unlike the prevalent traditional system in place, DeFi’s way of loaning relies
 
 ### 4. DeFi Assets Protocols Management
 
-Users can seamlessly access and connect to various SparkDeFi projects for an end-to-end DeFi experience. Furthermore, you can easily manage assets portfolio and collateralized debt positions (CDPs) in a simple and user-friendly dashboard.
+Users can seamlessly access and connect to various SparkDeFi projects for an end-to-end DeFi experience. Furthermore, the user can easily manage assets portfolio and collateralized debt positions (CDPs) in a simple and user-friendly dashboard.
 
-
-[Bitcoin and many other digital-native assets](https://github.com/DeFinerOrg) stand out from traditional digital payment methods, such as those run by Visa and PayPal, in removing middlemen from the transaction. Also, when you pay with a credit card for the coffee bill a financial institution sits between you and the business. This provides control over the transaction, retaining the authority to stop or pause it and record it in its private cut out of the price.
+[Bitcoin and many other digital-native assets](https://github.com/DeFinerOrg) stand out from traditional digital payment methods, such as those run by Visa and PayPal, in removing middlemen from the transaction. Also, when the user pays with a credit card for the coffee bill a financial institution sits between the user and the business. This provides control over the transaction, retaining the authority to stop or pause it and record it in its private cut out of the price.
 
 Applications in cryptocurrency or blockchain technology lean towards disrupting financial intermediaries. DeFi is the term that draws from the blockchain technology behind the digital currency yet very famous “Bitcoin”. DeFi is distinct because it expands the use of the blockchain from very simple to more complex financial use cases.
 
@@ -177,7 +176,7 @@ Forwarding a new type of loan and debt system, DeFi pushes to fill the gaps of t
 
 The gap in interoperability is one of the challenges present in DeFi. This challenge stems out from the siloed ecosystem created by blockchain technology. Different blockchain networks have different communities, consensus, and hashing algorithms which make standardization and collaboration tricky.<sup>7</sup> In short, blockchain networks are highly fragmented and disconnected. Each of the blockchain networks specializes in different capabilities making communication among the blockchain networks non-existent.
 
-The lack of interoperability with blockchain networks creates a clumsy user experience. For example, the user is planning to transact on the Ethereum network with his Bitcoin but to use Bitcoin on the Ethereum network he needs to convert his Bitcoin to Ether using a cryptocurrency exchange. This method is not only time-consumptive but expensive and frustrating for you. With this, creators of DeFi platforms must create interoperable solutions to fully unlock the true value of DeFi.
+The lack of interoperability with blockchain networks creates a clumsy user experience. For example, the user is planning to transact on the Ethereum network with his Bitcoin but to use Bitcoin on the Ethereum network he needs to convert his Bitcoin to Ether using a cryptocurrency exchange. This method is not only time-consumptive but expensive and frustrating for the user. With this, creators of DeFi platforms must create interoperable solutions to fully unlock the true value of DeFi.
 
 ### Non-inclusive Approach to P2P Lending
 
@@ -216,7 +215,7 @@ SparkDeFi revolutionizes P2P Lending by allowing various cryptocurrency assets l
 
 ### Microlending
 
-SparkDeFi supports financial inclusion by offering a more all-encompassing approach in terms of lending. These approaches include a lower barrier to entry, minimal loan-to-value (LTV) ratio, and microlending which serves as another provision in solving overcollateralization through small, low-interest loans to borrowers. Furthermore, the adoption of a trust score enabled by smart contracts is considered to eventually forego the need for collateral in P2P Lending. 
+SparkDeFi supports financial inclusion by offering a more all-encompassing approach in terms of lending. These approaches include a lower barrier to entry, minimal loan-to-value (LTV) ratio, and microlending which serves as another provision in solving over-collateralization through small, low-interest loans to borrowers. Furthermore, the adoption of a trust score enabled by smart contracts is considered to eventually forego the need for collateral in P2P Lending. 
 
 ## SparkDeFi Ecosystem Security and Architecture
 
